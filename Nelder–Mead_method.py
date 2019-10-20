@@ -158,7 +158,7 @@ print("iter : ", res_by_scipy.nit)
 print("")
 
 #====================================================================
-#Pattern 2 : Implementation of BFGS method by Scipy.optimize.minimize
+#Pattern 3 : Implementation of BFGS method by Scipy.optimize.minimize
 #====================================================================
 
 def rosen_deriv(x):
